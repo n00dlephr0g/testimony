@@ -1,4 +1,5 @@
-- still trying to figure out life tbh
+- been a christian all my life
+- only started taking God seriously since 4-5 years ago
 - studying software engineering 3rd year
 - working (at a pretty cool job praise God)
 - serving in NLK and RESO ministries

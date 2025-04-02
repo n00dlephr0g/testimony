@@ -1,8 +1,7 @@
 ### Introduction
 - yap and warm up, get a feel of the audience (1 minute tops)
-- talk about my life (2 minute tops)
+- talk about my life (1 minute tops)
 	- ![[current situation]]
-	- ![[personality introduction]]
 - introduce structure of testimony (1 mjnute tops)
 	- will be unconventional and in [[stages]]
 		- this is due to my unusual relationship with God over the years

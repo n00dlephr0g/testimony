@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9fdb777ea68000",
+        "id": "7464a61aa7125bec",
         "type": "tabs",
         "children": [
           {
-            "id": "efaf6d7ba68c6058",
+            "id": "f62eb327d4465797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testimony.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Testimony"
-            }
-          },
-          {
-            "id": "83f0161ef4deab81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "early highschool.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "early highschool"
-            }
-          },
-          {
-            "id": "bd6134d632cfbfbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "childhood and upbringing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "childhood and upbringing"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,14 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83f0161ef4deab81",
+  "active": "8dfa5502b43b7d9f",
   "lastOpenFiles": [
+    "personality introduction.md",
     "Testimony.md",
-    "why am i getting baptised?.md",
+    "current situation.md",
     "early highschool.md",
     "childhood and upbringing.md",
-    "current situation.md",
-    "personality introduction.md",
+    "why am i getting baptised?.md",
     "stages.md",
     "mid highschool.md",
     "university and present.md",
