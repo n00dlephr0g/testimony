@@ -1,0 +1,3 @@
+- grew up in hong kong
+- was brought up christian
+- parents had strong values

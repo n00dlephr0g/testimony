@@ -1,0 +1,5 @@
+1. [[childhood and upbringing]]
+2. [[early highschool]]
+3. [[mid highschool]]
+4. [[vce]]
+5. [[university and present]]

@@ -1,0 +1,4 @@
+- still trying to figure out life tbh
+- studying software engineering 3rd year
+- working (at a pretty cool job praise God)
+- serving in NLK and RESO ministries

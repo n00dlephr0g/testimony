@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "d9acb92e03c575ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9fdb777ea68000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efaf6d7ba68c6058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testimony.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testimony"
+            }
+          },
+          {
+            "id": "83f0161ef4deab81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "early highschool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "early highschool"
+            }
+          },
+          {
+            "id": "bd6134d632cfbfbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "childhood and upbringing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "childhood and upbringing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f3497e3702f00b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4e8f0ca3614d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfa5502b43b7d9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c02b1bca66f70588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e023e11224b6a8e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4155f047d47c6a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6719a594c80d6ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47cd17f6026e5334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testimony.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Testimony"
+            }
+          },
+          {
+            "id": "c71439c34d8eacee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testimony.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Testimony"
+            }
+          },
+          {
+            "id": "00490fef89819ff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8150a0609486b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Testimony.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Testimony"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "83f0161ef4deab81",
+  "lastOpenFiles": [
+    "Testimony.md",
+    "why am i getting baptised?.md",
+    "early highschool.md",
+    "childhood and upbringing.md",
+    "current situation.md",
+    "personality introduction.md",
+    "stages.md",
+    "mid highschool.md",
+    "university and present.md",
+    "vce.md",
+    "family background.md",
+    "adhd.md",
+    "stage 1.md"
+  ]
+}
