@@ -11,13 +11,32 @@
             "id": "f62eb327d4465797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testimony.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Testimony"
+            }
+          },
+          {
+            "id": "c13d750482c1b641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speech"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4155f047d47c6a0a",
@@ -164,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dfa5502b43b7d9f",
+  "active": "c13d750482c1b641",
   "lastOpenFiles": [
-    "personality introduction.md",
     "Testimony.md",
+    "Speech.md",
+    "personality introduction.md",
     "current situation.md",
     "early highschool.md",
     "childhood and upbringing.md",
