@@ -1,20 +1,25 @@
 - yap: 30 seconds
 - how did Jesus change my life?
-	- id always known Hes always been there (upbringing)
-	- worked in me continually (growth cycles)
+	- worked in me continually (emphasis on how God has been so faithful)
 	- some scriptures that i live by
 		- 1 Corinthians 13:4-8
 		  `Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.`
 		- Matthew 6:33
 		  `But seek first his kingdom and his righteousness, and all these things will be given to you as well.`
-		- Proverbs 3:5-6
-		  `Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.`
-		- Jeremiah 17:9
-		  `The heart is deceitful above all things and beyond cure. Who can understand it?`
-		- 1 Corinthians 10:13 (second half)
-		  `....he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.`
-	- these verses guide my faith and my actions
-		- (or i guess you could say my faith in action hahaha)
+
+- what was i like before i took God seriously?
+	- unserious
+	- ran away from things, even important ones
+	- didnt really acknowledge my lust, greed and pride as an issue
+	- i was used secular reasoning and failed to see God in the picture
+
+- i started taking God seriously
+	- this was about 4-5 years ago? (pretty sure)
+	- i hit rock bottom and started looking for answers
+	- funny that the answer was there all along
+	- i remembered the bits in proverbs that talked about the fools who suffered because they followed their own ways
+	- i realised that was me LOL
+
 - why not earlier?
 	- i had a warped perception of baptism
 		- guilt, shame and not being good enough
@@ -27,14 +32,18 @@
 - what changed?
 	- met different people that changed my perception of baptism 
 		- (some who are strangers!)
-		- dwelled on the fact that i have already been forgiven
-	- i started taking my life more seriously
-		- helped me realise the extent of my imperfection 
-		  (and that i need God in my life)
-		- opened my eyes to the vastness of Gods grace (praise <3)
-		  (and that i WANT God in my life)
-		- also linked to the significance and grandness of Jesus' sacrifice on the cross 
-		  (and that he DESERVES my declaration as his follower)
+		- i realised that what Jesus did on the cross is actually really significant
+			- it erased my sins; past, present and future
+				- callback to the sins i mentioned earlier
+					- im now very critical of my sinful behaviours and thoughts and lean on God when i need help
+					- i dont run away from things nearly as much anymore because i know God places things in my path for a reason
+					- always remember God when i go about any reasoning
+			- he did it for everyone and will be given to anyone who is willing to follow Him and accept His gift
+		- what does this mean though?
+			- call back to my guilt and shame and not being good enough
+			- no im NOT good enough and cant save myself from anything 
+			- i realise i have been delivered from my sins because of Jesus' sacrifice
+			- call back to my growth
 - whats next?
 	- follow Gods calling for me to be a "minister of hearts" (prophesied by a stranger, he even prayed for me <3)
 		- continue to better myself so i can be prepared to guide and minister others in their faith
@@ -47,6 +56,4 @@
 		  `Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.`
 		- Matthew 28:19
 		  `Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,`
-	- prayer
-		- go ham, pray your heart out
 
